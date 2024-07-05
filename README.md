@@ -1,4 +1,13 @@
-# NLP Project: Emotion-Cause Pair Extraction
+# NLP (Natural Language Processing)
+## Assignments 2 & 3
+During my college course, I developed systems for Named Entity Recognition (NER), text similarity, and machine translation (MT). I implemented recurrent neural networks (RNNs, LSTMs, GRUs) and transformer models from scratch. Additionally, I fine-tuned pre-trained architectures like BERT, GPT, and T5 to achieve the highest accuracy metrics (F1, Pearson Correlation, BLEU, BERTScore) among all assignments.
+
+## Assignment 4 & Project
+For a SemEval task, I worked on Textual Emotion-Cause Pair Extraction in conversations. Using BERT and LSTM, I accurately recognized emotions and understood the context and dependencies between previous tokens. I implemented BertForTokenClassification to identify textual spans causing emotion shifts. This involved employing six different models for various emotions using Named Entity Recognition (NER) techniques with BertForTokenClassification.
+
+
+
+# Project: Emotion-Cause Pair Extraction
 
 ## Introduction
 
